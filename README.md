@@ -16,7 +16,7 @@
 
 <br />
 
-Привет, меня зовут Татьяна, я инженер. Сейчас учусь. Изучаю Git и ещё несколько интересных технологий.
+Привет, меня зовут Татьяна, я инженер. Сейчас учусь. Изучаю API, Python, Git и ещё несколько интересных технологий. Хочу стать QA - инженером, чтобы настраивать процессы для создания качественного продукта.
 
 <br />
 
@@ -27,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"></code>
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
