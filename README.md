@@ -30,6 +30,7 @@
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"></code>
 <code><img height="20" src="https://cacm.acm.org/system/assets/0003/9221/021521_Fiverr_Pascal.large.jpg?1613514238&1613514237"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/1920px-Scratchlogo.svg.png"></code>
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
