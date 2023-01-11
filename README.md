@@ -43,5 +43,5 @@
 * [ ] НЕ сойти с ума
 * [x] Задать первый вопрос на https://sqa.stackexchange.com/
 * [ ] :soon: Уcпешно сдать экзамен по 한국어 на уровень A2
-* [ ] 100 дней к ряду заходить на stackoverflow.com ([:white_check_mark:](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) 2 из 100) - начинаю третий раз
+* [ ] 100 дней к ряду заходить на stackoverflow.com ([:white_check_mark:](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) 3 из 100) - начинаю третий раз
 <!-- TODO-IST:END -->
