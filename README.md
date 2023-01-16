@@ -1,4 +1,4 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--- <a href="https://vk.com/mistress_tatiana_a">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a> --->
@@ -14,7 +14,7 @@
 
 <br />
 
-Привет, меня зовут Татьяна, я инженер. Сейчас учусь. Изучаю API, Python, Git и ещё несколько интересных технологий. Хочу работать QA - инженером, чтобы настраивать процессы для создания качественного продукта.
+Привет, меня зовут Татьяна, я - инженер. Сейчас учусь. Изучаю API, Python, Git и ещё несколько интересных технологий. Хочу работать QA - инженером, чтобы настраивать процессы для создания качественного продукта.
 
 <br />
 
